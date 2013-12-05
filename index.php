@@ -6,4 +6,6 @@
 
 	function affiche();
 
+	echo 'test';
+
 ?>
