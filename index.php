@@ -1,10 +1,11 @@
 <?php
 
-	function affiche{
+	function affiche()
+	{
 		echo "Hello World";
 	}
 
-	function affiche();
+	affiche();
 
 	echo 'test';
 
