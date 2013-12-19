@@ -1,5 +1,6 @@
 <?php
-class user{
+	
+	class User{
 	
 		private $nom_user;
 		private $prenom_user;
